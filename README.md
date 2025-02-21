@@ -27,7 +27,7 @@ O objetivo desse trabalho é aplicar os conhecimentos adquiridos em sala de aula
   -  ```make```
   -  ```make valgrind```
  <br>
- Deve aparecer algo como:
+ Exemplo com Valgrind:  
 
 ![theboys](https://github.com/user-attachments/assets/47395810-3dd0-4968-baec-ace4d036590a)
 
